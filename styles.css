@@ -1,0 +1,59 @@
+header{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+ justify-content: space-around;
+ align-items: center;
+ font-size: 30px;
+
+}
+body{
+    background-color: black;
+}
+.FEM_Agencia{
+    width: 20;
+    font-size: 40px;
+}
+.Sobre{
+    width: 20;
+}
+.Servicos{
+    height: 60;
+    width: 20;
+}
+.Contato{
+    height: 60;
+    width: 20;
+}
+.Blog{
+    height: 60;
+    width: 20;
+}
+h2{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
+.FEM{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    font-size: 40px;
+}
+.mb-3{
+    color: aliceblue;
+    font-size: 30px;
+}
+.telefone{
+    color: aliceblue;
+    font-size: 30px;
+align-items: center;
+display: flex;
+}
+.form-control{
+    align-items: center;
+}
+.nome{
+    color: aliceblue;
+    font-size: 30px;
+}
